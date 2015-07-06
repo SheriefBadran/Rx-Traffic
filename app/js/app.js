@@ -21,6 +21,7 @@ function init() {
         console.log(x);
     });
 
+    // isFirstLoad is not needed when using observables.
     var isFirstLoad = true;
     var mapHandler = TRAFFIC.google.map;
     renderList();
@@ -83,6 +84,7 @@ function init() {
             }
         }, false);
 
+        // Use the startWith() function
         if (isFirstLoad) {
 
             renderer.createMarkers(renderer.arrangeData(renderer.markerData));

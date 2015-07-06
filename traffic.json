@@ -1058,18 +1058,6 @@
       "subcategory": "Vägarbete"
     },
     {
-      "id": 1446072,
-      "priority": 3,
-      "createddate": "\/Date(1436219013937+0200)\/",
-      "title": "E6  Landskrona -Lundåkra  mot Malmö ",
-      "exactlocation": "",
-      "description": "Husvagnsekipage med punktering. Varningstriangel utsatt. Människor rör sig runt fordonet",
-      "latitude": 55.875171661376953,
-      "longitude": 12.878393173217773,
-      "category": 0,
-      "subcategory": "Trafikstörning"
-    },
-    {
       "id": 1445768,
       "priority": 3,
       "createddate": "\/Date(1436206626347+0200)\/",
@@ -1898,18 +1886,6 @@
       "subcategory": "Tåg"
     },
     {
-      "id": 1445821,
-      "priority": 2,
-      "createddate": "\/Date(1436206660293+0200)\/",
-      "title": "Halmstad–Helsingborg",
-      "exactlocation": "",
-      "description": "Tågstoppet hävt räkna med följd förseningar",
-      "latitude": 56.381370481989904,
-      "longitude": 12.821172273905811,
-      "category": 1,
-      "subcategory": "Tåg"
-    },
-    {
       "id": 1445344,
       "priority": 4,
       "createddate": "\/Date(1436170520347+0200)\/",
@@ -2440,12 +2416,12 @@
     {
       "id": 1445503,
       "priority": 2,
-      "createddate": "\/Date(1436211173213+0200)\/",
+      "createddate": "\/Date(1436219854090+0200)\/",
       "title": "E22 Tollarp–Kristianstad",
-      "exactlocation": "Tings Nöbbelöv–tpl Vä (36) mot Kristianstad",
-      "description": "Vägen avstängd i båda riktningar. Vägen beräknas vara stängd fram till tidigt tisdag morgon.",
-      "latitude": 55.983497619628906,
-      "longitude": 14.088285446166992,
+      "exactlocation": "Mot Kristianstad",
+      "description": "Vägen avstängd. Beräknas vara stängd fram till tidigt tisdag morgon.",
+      "latitude": 55.96612548828125,
+      "longitude": 14.072909355163574,
       "category": 0,
       "subcategory": "Trafikolycka"
     },
@@ -2501,7 +2477,7 @@
   "pagination": {
     "page": 1,
     "size": 1000,
-    "totalhits": 208,
+    "totalhits": 206,
     "totalpages": 1
   }
 }

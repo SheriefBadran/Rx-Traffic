@@ -19,8 +19,7 @@ if ('development' == env) {
     app.use(morgan('dev'));
     app.use(bodyParser());
     app.use(errorHandler({dumpExceptions: true, showStack: true}));
-}
-;
+};
 
 
 //Start server
@@ -82,7 +81,7 @@ var getTrafficEvents = function () {
 };
 
 getTrafficEvents();
-setInterval(getTrafficEvents, 100000);
+setInterval(getTrafficEvents, 5000);
 
 io.sockets.on('connection', function (client) {
     console.log('emit on connection');
