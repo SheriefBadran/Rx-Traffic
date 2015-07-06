@@ -3,7 +3,7 @@ var traceur = require('gulp-traceur');
 var $ = require('gulp-load-plugins')();
 
 gulp.task('default', function() {
-  return gulp.src('./app/js/*.js')
+  return gulp.src('app/js/**/*.js')
     .pipe($.traceur({
       asyncFunctions: true
     }))
@@ -11,7 +11,6 @@ gulp.task('default', function() {
       console.error(err.toString());
       this.emit('end');
     })
-    .pipe(gulp.dest('./app/dist/traceur'));
-
+    .pipe(gulp.dest('app/dist/traceur'))
 });
 

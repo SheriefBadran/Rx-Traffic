@@ -2,18 +2,6 @@
   "copyright": "Copyright Sveriges Radio 2015. All rights reserved.",
   "messages": [
     {
-      "id": 1445967,
-      "priority": 3,
-      "createddate": "\/Date(1436209133127+0200)\/",
-      "title": "E22 Ringarum-Valdemarsvik",
-      "exactlocation": "Vid tpl Gusum",
-      "description": "",
-      "latitude": 58.283123496828196,
-      "longitude": 16.5063729900718,
-      "category": 0,
-      "subcategory": "Trafikolycka"
-    },
-    {
       "id": 1445120,
       "priority": 5,
       "createddate": "\/Date(1436155318173+0200)\/",
@@ -155,18 +143,6 @@
       "latitude": 57.511885785748056,
       "longitude": 12.049709663658469,
       "category": 2,
-      "subcategory": "Vägarbete"
-    },
-    {
-      "id": 1445847,
-      "priority": 3,
-      "createddate": "\/Date(1436200135017+0200)\/",
-      "title": "Rv 31 Vetlanda–Nybro",
-      "exactlocation": " Nottebäck till Vägershult riktning mot Ekskogen-Vägershult ",
-      "description": "Arbetsfordon på vägen till ca kl. 22.00.",
-      "latitude": 57.099918365478516,
-      "longitude": 15.181768417358398,
-      "category": 0,
       "subcategory": "Vägarbete"
     },
     {
@@ -422,18 +398,6 @@
       "subcategory": "Vägarbete"
     },
     {
-      "id": 1445865,
-      "priority": 3,
-      "createddate": "\/Date(1436200012930+0200)\/",
-      "title": "E18 Grums",
-      "exactlocation": "Malöga till Cirkulationsplats Grums ",
-      "description": "Begränsad framkomlighet till ca kl 23.00.",
-      "latitude": 59.334114074707031,
-      "longitude": 13.102699279785156,
-      "category": 0,
-      "subcategory": "Vägarbete"
-    },
-    {
       "id": 1434184,
       "priority": 3,
       "createddate": "\/Date(1435031377167+0200)\/",
@@ -466,18 +430,6 @@
       "description": "Begränsad framkomlighet. ",
       "latitude": 62.42620849609375,
       "longitude": 13.320097923278809,
-      "category": 0,
-      "subcategory": "Vägarbete"
-    },
-    {
-      "id": 1445166,
-      "priority": 3,
-      "createddate": "\/Date(1436161180173+0200)\/",
-      "title": "Lv 764 Tvååker",
-      "exactlocation": "Tvååker–Rolfstorp",
-      "description": "Begränsad framkomlighet. Asfalteringsarbete.",
-      "latitude": 57.095451354980469,
-      "longitude": 12.408151626586914,
       "category": 0,
       "subcategory": "Vägarbete"
     },
@@ -758,30 +710,6 @@
       "subcategory": "Övrigt"
     },
     {
-      "id": 1445866,
-      "priority": 3,
-      "createddate": "\/Date(1436201384467+0200)\/",
-      "title": "E4/E20 Södertäljevägen",
-      "exactlocation": "Efter bit efter påfarten vid tpl Moraberg (144) in mot Stockholm",
-      "description": "Bil med husvagn som drabbats av däckexplosion. ",
-      "latitude": 59.202997132596991,
-      "longitude": 17.674713259343736,
-      "category": 0,
-      "subcategory": "Trafikstörning"
-    },
-    {
-      "id": 1445779,
-      "priority": 3,
-      "createddate": "\/Date(1436197054540+0200)\/",
-      "title": "Lv 321/E14 Svenstavik-Storlien",
-      "exactlocation": "",
-      "description": "Bred transport. Tre lastbilar med hus kör mellan Svenstavik och Storlien med start ca 17:15.",
-      "latitude": 63.288895572873713,
-      "longitude": 13.927394438936577,
-      "category": 0,
-      "subcategory": "Trafikstörning"
-    },
-    {
       "id": 1439990,
       "priority": 5,
       "createddate": "\/Date(1435900091600+0200)\/",
@@ -806,18 +734,6 @@
       "subcategory": "Trafikstörning"
     },
     {
-      "id": 1445396,
-      "priority": 3,
-      "createddate": "\/Date(1436198536293+0200)\/",
-      "title": "E4/E20 Södertälje",
-      "exactlocation": "Motorvägsbron",
-      "description": "Broöppningar kl 19:27-19:47. Även tågbron för pendeltågstrafiken och Saltsjöbron i Södertälje öppnas för båttrafik.",
-      "latitude": 59.184092458336508,
-      "longitude": 17.641269742637157,
-      "category": 0,
-      "subcategory": "Trafikstörning"
-    },
-    {
       "id": 1400830,
       "priority": 4,
       "createddate": "\/Date(1435300102413+0200)\/",
@@ -828,18 +744,6 @@
       "longitude": 17.933457533080738,
       "category": 1,
       "subcategory": "T-bana"
-    },
-    {
-      "id": 1445955,
-      "priority": 3,
-      "createddate": "\/Date(1436208141070+0200)\/",
-      "title": "E18 Enköping mot Västerås",
-      "exactlocation": "Mellan tpl Annelund (143) och tplRomberga (142)",
-      "description": "Buss med punktering, sticker delvis ut i höger körfält.\n",
-      "latitude": 59.647586822509766,
-      "longitude": 17.145523071289063,
-      "category": 0,
-      "subcategory": "Trafikstörning"
     },
     {
       "id": 1420385,
@@ -879,8 +783,8 @@
     },
     {
       "id": 1444391,
-      "priority": 3,
-      "createddate": "\/Date(1436158932563+0200)\/",
+      "priority": 5,
+      "createddate": "\/Date(1436211408317+0200)\/",
       "title": "Lv 781 Harmånger-Strömsbruk",
       "exactlocation": "Edsäter",
       "description": "Byte av räls vid järnvägsövergång i Edsäter. Järnvägsövergången är avstängd till tors 9/7. Följ skyltad omledning.",
@@ -1154,6 +1058,18 @@
       "subcategory": "Vägarbete"
     },
     {
+      "id": 1446072,
+      "priority": 3,
+      "createddate": "\/Date(1436219013937+0200)\/",
+      "title": "E6  Landskrona -Lundåkra  mot Malmö ",
+      "exactlocation": "",
+      "description": "Husvagnsekipage med punktering. Varningstriangel utsatt. Människor rör sig runt fordonet",
+      "latitude": 55.875171661376953,
+      "longitude": 12.878393173217773,
+      "category": 0,
+      "subcategory": "Trafikstörning"
+    },
+    {
       "id": 1445768,
       "priority": 3,
       "createddate": "\/Date(1436206626347+0200)\/",
@@ -1202,18 +1118,6 @@
       "subcategory": "Vägarbete"
     },
     {
-      "id": 1445870,
-      "priority": 3,
-      "createddate": "\/Date(1436202143647+0200)\/",
-      "title": "Essingeleden",
-      "exactlocation": "Södergående efter Solna påfarten",
-      "description": "Krock mellan bil och lastbil höger körfält",
-      "latitude": 59.356325490409695,
-      "longitude": 18.03303343997926,
-      "category": 0,
-      "subcategory": "Trafikstörning"
-    },
-    {
       "id": 1271404,
       "priority": 5,
       "createddate": "\/Date(1434611193637+0200)\/",
@@ -1224,18 +1128,6 @@
       "longitude": 17.077524185180664,
       "category": 0,
       "subcategory": "Vägarbete"
-    },
-    {
-      "id": 1445971,
-      "priority": 3,
-      "createddate": "\/Date(1436209359940+0200)\/",
-      "title": "E6  Fakenberg- Tvååker ",
-      "exactlocation": "",
-      "description": "Lastbilsolycka",
-      "latitude": 57.038709368510993,
-      "longitude": 12.374707076410216,
-      "category": 0,
-      "subcategory": "Trafikolycka"
     },
     {
       "id": 1439697,
@@ -1320,18 +1212,6 @@
       "longitude": 15.69,
       "category": 3,
       "subcategory": "Buller"
-    },
-    {
-      "id": 1445180,
-      "priority": 3,
-      "createddate": "\/Date(1436178889460+0200)\/",
-      "title": "E4 Tpl Björklinge (190) - tpl Tierp (193) ",
-      "exactlocation": "",
-      "description": "Långsamma arbetsfordon på vägen under måndagen till ca kl 23.00.",
-      "latitude": 60.172657012939453,
-      "longitude": 17.516359329223633,
-      "category": 0,
-      "subcategory": "Vägarbete"
     },
     {
       "id": 1414384,
@@ -1526,18 +1406,6 @@
       "subcategory": "Buss"
     },
     {
-      "id": 1445951,
-      "priority": 3,
-      "createddate": "\/Date(1436209507190+0200)\/",
-      "title": "E6 Halmstad-Ängelholm ",
-      "exactlocation": "",
-      "description": "Olja på vägen",
-      "latitude": 56.652906477710815,
-      "longitude": 12.903307745310252,
-      "category": 3,
-      "subcategory": "SOS"
-    },
-    {
       "id": 1431396,
       "priority": 3,
       "createddate": "\/Date(1434623665103+0200)\/",
@@ -1599,8 +1467,8 @@
     },
     {
       "id": 1445434,
-      "priority": 3,
-      "createddate": "\/Date(1436189098977+0200)\/",
+      "priority": 5,
+      "createddate": "\/Date(1436214949047+0200)\/",
       "title": "Rv 23 Växjö",
       "exactlocation": "Påfartsrampen vid trafikplats Sandsbro Södra ",
       "description": "Påfarten mot Sandsbro avstängd pga asfaltering. Följ orange skyltning. ",
@@ -1766,30 +1634,6 @@
       "subcategory": "Väder"
     },
     {
-      "id": 1445892,
-      "priority": 3,
-      "createddate": "\/Date(1436201822600+0200)\/",
-      "title": "E22 Bromölla",
-      "exactlocation": "Tpl Bromölla",
-      "description": "Stillastående personbil delvis på körbanan i riktning mot Sölvesborg.",
-      "latitude": 56.063179010596052,
-      "longitude": 14.499825865837327,
-      "category": 0,
-      "subcategory": "Trafikstörning"
-    },
-    {
-      "id": 1445794,
-      "priority": 3,
-      "createddate": "\/Date(1436196724247+0200)\/",
-      "title": "Falköping-Jönköping-Nässjö ",
-      "exactlocation": "",
-      "description": "Stopp i tågtrafiken mellan Jönköping och Huskvarna. Orsaken är att bron över undergången blivit påkörd och måste kontrolleras innan tågen får passera igen. ",
-      "latitude": 57.7814683401619,
-      "longitude": 14.190136974509084,
-      "category": 1,
-      "subcategory": "Tåg"
-    },
-    {
       "id": 1438580,
       "priority": 2,
       "createddate": "\/Date(1436188384483+0200)\/",
@@ -1800,30 +1644,6 @@
       "longitude": 14.157257080078125,
       "category": 0,
       "subcategory": "Vägarbete"
-    },
-    {
-      "id": 1445485,
-      "priority": 3,
-      "createddate": "\/Date(1436200613410+0200)\/",
-      "title": "Norrtälje",
-      "exactlocation": "Norra delarna i kommunen",
-      "description": "Strömavbrott som berör drygt 1000 kunder. ",
-      "latitude": 59.732622576553766,
-      "longitude": 18.980502374574183,
-      "category": 3,
-      "subcategory": "El"
-    },
-    {
-      "id": 1445750,
-      "priority": 3,
-      "createddate": "\/Date(1436197050020+0200)\/",
-      "title": "Göteborg-Kungsbacka",
-      "exactlocation": "Anneberg",
-      "description": "Störningar i tågtrafiken. Inställda avgångar på Kungsbackapendeln.",
-      "latitude": 57.433793389570674,
-      "longitude": 12.201948519268363,
-      "category": 1,
-      "subcategory": "Tåg"
     },
     {
       "id": 1429265,
@@ -2068,7 +1888,7 @@
     {
       "id": 1445798,
       "priority": 2,
-      "createddate": "\/Date(1436203905163+0200)\/",
+      "createddate": "\/Date(1436216547777+0200)\/",
       "title": "Karlskrona-Kristianstad/Karlskrona-Emmaboda",
       "exactlocation": "",
       "description": "Tågstopp pga olycka som inträffat i Karlskrona. Bussar ersätter.",
@@ -2620,7 +2440,7 @@
     {
       "id": 1445503,
       "priority": 2,
-      "createddate": "\/Date(1436200204453+0200)\/",
+      "createddate": "\/Date(1436211173213+0200)\/",
       "title": "E22 Tollarp–Kristianstad",
       "exactlocation": "Tings Nöbbelöv–tpl Vä (36) mot Kristianstad",
       "description": "Vägen avstängd i båda riktningar. Vägen beräknas vara stängd fram till tidigt tisdag morgon.",
@@ -2681,7 +2501,7 @@
   "pagination": {
     "page": 1,
     "size": 1000,
-    "totalhits": 223,
+    "totalhits": 208,
     "totalpages": 1
   }
 }
