@@ -23,6 +23,7 @@ function init() {
 
     // isFirstLoad is not needed when using observables.
     var isFirstLoad = true;
+
     var mapHandler = TRAFFIC.google.map;
     renderList();
     var socket = io.connect('http://localhost:8000');
@@ -58,6 +59,7 @@ function init() {
         // Populate category arrays
         renderer.populateCategoryArrays(renderer.markerData);
 
+        // TODO: Create a menuClickStream.
         var selectList = document.querySelector('#select-list select');
 
         selectList.addEventListener('change', function (e) {
@@ -84,7 +86,7 @@ function init() {
             }
         }, false);
 
-        // Use the startWith() function
+        // TODO: Use the startWith() on the menuClickStream to trigger default load app behaviour
         if (isFirstLoad) {
 
             renderer.createMarkers(renderer.arrangeData(renderer.markerData));
@@ -95,6 +97,7 @@ function init() {
 
 
     //var mapHandler.getMap();
+    // TODO: Create a markerClickStream
     var renderer = {
 
         markers: [],
