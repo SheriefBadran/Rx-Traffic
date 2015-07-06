@@ -3,13 +3,18 @@
   "version": "0.0.1",
   "description": "Portfolio_Application",
   "dependencies": {
-    "express": "~4.9.0",
     "body-parser": "~1.0.0",
-    "debug":"~2.0.0",
+    "debug": "~2.0.0",
     "errorhandler": "^1.1.1",
+    "express": "~4.9.0",
+    "gulp": "^3.9.0",
     "morgan": "~1.0.0",
     "path": "~0.4.9",
     "request": "latest",
     "socket.io": "~1.0.0"
+  },
+  "devDependencies": {
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-traceur": "^0.17.1"
   }
 }

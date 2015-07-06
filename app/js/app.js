@@ -1,9 +1,25 @@
 /**
  * Created by sheriefbadran on 12/1/14.
  */
+
+'use strict';
 window.onload = init;
 
 function init() {
+
+    // Checking traceur setup works.
+    var testArray = [1, 2, 3, 4, 5];
+    testArray.map((x) => console.log(x + 1));
+    console.log(Rx);
+
+    // Checking Rx working fine.
+    var source = Rx.Observable.create(observer => {
+        observer.onNext(42);
+    });
+
+    source.subscribe(x => {
+        console.log(x);
+    });
 
     var isFirstLoad = true;
     var mapHandler = TRAFFIC.google.map;
