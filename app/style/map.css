@@ -1,0 +1,28 @@
+body, html {
+    /*height: 100%;*/
+    /*width: 100%;*/
+    /*overflow: auto;*/
+}
+
+/*#main{*/
+    /*height: 100%;*/
+    /*width: 100%;*/
+/*}*/
+
+/*#map{*/
+    /*width: 450px;*/
+    /*height: 400px;*/
+    /*float: left;*/
+/*}*/
+
+#map{
+    /*width: 50%;*/
+    height: 500px;
+    /*float: left;*/
+
+}
+
+/*#select-list{*/
+    /*width: 20%*/
+/*margin-left: 40px;*/
+/*}*/
